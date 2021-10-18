@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Vinyl Exam Gloves",
+        "detail": "Exam gloves are the norm whenever there is a procedure where sterility and cleanliness are needed. Exam gloves protect the wearer from chemicals, biohazards, and other potentially dangerous substances, whether the user is in a health care facility or in any situation where there are contamination hazards.",
+        "equipId": 1,
+        "material": "Vinyl",
+        "ManufacturedBy": "Zafran Pharmaceutical Ltd.",
+        "price": "1.99",
+        "equipImage": "https://images.unsplash.com/photo-1585417238564-fcdf0b69535f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Z2xvdmVzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "use": "handling biohazardous material, as an alternative to latex in case of allergic reaction, and for a low cost, economy exam glove"
+    },
+    {
+        "name": "Vinyl Exam Gloves",
+        "detail": "3 mL Syringes with Needles employ PrecisionGlide Needles and Luer-Lok tips that virtually eliminate pop-off. The syringe barrel is clear and features a bold scale that is easy to read. The clearly marked measurements on these 3 mL Syringes allow caregivers to improve dosage accuracy. Manufactured by Becton Dickinson under the brand name of PrecisionGlide, the needles are made with stainless steel and are detachable from the syringe. Syringes with needles like these are disposable.",
+        "equipId": 2,
+        "material": "Plastic, Stainless Steel",
+        "ManufacturedBy": "Ahmurus Pharma",
+        "price": "0.99",
+        "equipImage": "https://images.unsplash.com/photo-1611689102033-7f9e0a8eb851?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bmVlZGxlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "use": "Syringes and needles are sterile devices used to inject solutions into or withdraw secretions from the body."
+    },
+    {
+        "name": "Portable Oxygen Concentrators",
+        "detail": "Portable oxygen concentrators, commonly abbreviated as POCs, are portable respiratory therapy devices that deliver concentrated oxygen. A portable oxygen concentrator takes ambient air and filters out everything except for the oxygen. They come in two delivery methods: Pulse dose and continuous flow. Consult with your doctor to ensure that you select the right portable oxygen machine.",
+        "equipId": 3,
+        "material": "Plastic, Tube, Battery, Cannulas",
+        "ManufacturedBy": "Ahmurus Pharma",
+        "price": "0.99",
+        "equipImage": "https://images.unsplash.com/photo-1532288922150-c04819be02b4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHB1bHNlJTIwb3hpbWV0ZXJ8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "use": "Supplemental oxygen may be prescripbed long-term for patients with lung disease or temporarily as patient is recovering from a lung condition. Here is a list of common conditions that may require oxygen therapy like COPD, Weak Lungs, Congestive Heart Failure, Pneumonia, Lung Cancer, Reduced Lung Function Due to Illness, Including COVID-19, Cystic Fibrosis. "
+    },
+    {
+        "name": "Enteral Feeding Tubes",
+        "detail": "Feeding Tubes are medical devices that are used to deliver nutritional support to patients who are unable to ingest and swallow food. Feeding Tubes can be used as both permanent nutritional treatment of chronic disease and disabilities or for temporary nutritional support. There are a variety of different feeding tube styles. Feeding tubes are classified by their method and site of insertion.",
+        "equipId": 4,
+        "material": "Polyvinyl chloride (PVC), silicone, or polyurethane.",
+        "ManufacturedBy": "Calcus Pharma",
+        "price": "1.99",
+        "equipImage": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTM0fHxtZWRpY2FsJTIwdHViZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "use": "For patients who are Malnourished or who cannot or will not Orally Ingest Adequate Food"
+    },
+    {
+        "name": "Face mask",
+        "detail": "Face Masks were only commonplace in the medical field. Since the coronavirus outbreak, wearing a face mask is a new normal when entering public spaces to prevent the spread of COVID-19. Masks are made from a variety of materials and layers to filter airborne contaminants.",
+        "equipId": 5,
+        "material": "Polypropylene, Fabric",
+        "ManufacturedBy": "Delta Pharmaceutical Ltd.",
+        "price": "0.25",
+        "equipImage": "https://images.unsplash.com/photo-1603285989755-f74b36039903?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHN1cmdpY2FsJTIwbWFza3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "use": "To get prevent from dust, virus, bacteria"
+    },
+    {
+        "name": "Lite Blood Glucose Monitoring System",
+        "detail": "Lite Blood Glucose Monitoring System is designed for ease of use, providing a large and easy-to-read numeric display, a contoured shape for easy holding, and simple test strip applications. The sample size is exceptionally small, making the overall experience less cumbersome, and the results can be gathered within a mere 5 seconds.",
+        "equipId": 6,
+        "material": "Test strip, Needle",
+        "ManufacturedBy": "Abdul Diabetes Care Ltd.",
+        "price": "15.99",
+        "equipImage": "https://images.unsplash.com/photo-1599814516385-5eb0a11888d4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGRpYWJldGVzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "use": "To examine sugar or glucose level of blood"
+    },
+    {
+        "name": "Circular Surgical Stapler",
+        "detail": "Disposable circular stapler Disposable circular stapler provide two rows of staggered annular titanium nails.The nails form circular suture with the excess tissue removed by circular blade in the equipment.",
+        "equipId": 7,
+        "material": "Plastic",
+        "ManufacturedBy": "GObind Diagnostic.",
+        "price": "15.99",
+        "equipImage": "https://images.unsplash.com/photo-1619901399360-9c8a7d4e68ec?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3VyZ2ljYWwlMjBzdGFwbGVyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "use": "Mainly applicable to end to end, end to side, side to side anastomosis in digestive tract reconstructive surgery of esophagus,stomach and intestines. "
+    }
+]
