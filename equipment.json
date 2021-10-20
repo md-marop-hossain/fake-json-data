@@ -68,5 +68,25 @@
         "price": "15.99",
         "equipImage": "https://images.unsplash.com/photo-1619901399360-9c8a7d4e68ec?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3VyZ2ljYWwlMjBzdGFwbGVyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         "use": "Mainly applicable to end to end, end to side, side to side anastomosis in digestive tract reconstructive surgery of esophagus,stomach and intestines. "
+    },
+    {
+        "name": "Digital Thermometer",
+        "detail": "A thermometer is a device used for measuring temperature. A thermometer is an instrument that measures temperature. It can measure the temperature of a solid such as food, a liquid such as water, or a gas such as air. The three most common units of measurement for temperature are Celsius, Fahrenheit, and kelvin.",
+        "equipId": 8,
+        "material": "Plastic",
+        "ManufacturedBy": "HealthCheck Ltd.",
+        "price": "5.99",
+        "equipImage": "https://images.unsplash.com/photo-1609725236589-d987ffc8133a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8dGhlcm1vbWV0ZXJ8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "use": "Mainly applicable to read temparature "
+    },
+    {
+        "name": "Blood pressure monitor",
+        "detail": "Blood Pressure Monitor with LCD screen from certified Chinese medical pressure supplier. One button measurement, heart rate monitoring, comfortable cuff, precise measurement. Medical Devices Solutions. One-stop Support. Customerized Support. 10 Years' Experience.",
+        "equipId": 9,
+        "material": "Plastic, fabric",
+        "ManufacturedBy": "GObind Diagonist.",
+        "price": "15.99",
+        "equipImage": "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ymxvb2QlMjBwcmVzc3VyZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "use": "A home blood pressure monitor makes it easy to keep track of your blood pressure "
     }
 ]
